@@ -1,0 +1,5 @@
+id,endereco,tipo,inquilino,valor_aluguel,status,vencimento,desconto_mes,valor_anual
+8,Rua Verde 505,Casa,Felipe Lima,3100,Ativo,2025-07-08,0,37200.0
+9,Rua Azul 606,Loja,Loja 123,4800,Ativo,2025-07-18,0,57600.0
+10,Rua do Parque 707,Apartamento,Gustavo Nunes,2600,Encerrado,2025-04-30,0,31200.0
+11,rua cachambi 52,,,10000,,,500,
